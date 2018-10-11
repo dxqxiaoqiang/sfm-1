@@ -1,3 +1,0 @@
-/home/dxq/Sfm-master (3)/build/CMakeFiles/rebuild_cache.dir
-/home/dxq/Sfm-master (3)/build/CMakeFiles/edit_cache.dir
-/home/dxq/Sfm-master (3)/build/CMakeFiles/sfm.dir
